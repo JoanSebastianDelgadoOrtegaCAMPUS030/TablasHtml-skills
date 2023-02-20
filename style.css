@@ -1,0 +1,76 @@
+body{
+    background-image: url(img/fondo3.jpg);
+    background-size: 100%;
+
+}
+.fondo{
+    width: 80%;
+    z-index: -100;
+    position: absolute;
+    height: 190%;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+.titulo{
+    text-align: center;
+    
+}
+.lorem1{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+
+
+}
+.tabla1{
+    width: 250px;
+    top: 41%;
+    position: absolute;
+    left: 42%;
+}
+.font{
+    width: 250px;
+    top: 37%;
+    position: absolute;
+    left: 43%;
+    top: 50%;
+}
+.textf{
+    width: 350px;
+    top: 57%;
+    position: absolute;
+    left: 38%;
+}
+.procss{
+    width: 350px;
+    top: 112%;
+    position: absolute;
+    left: 38%;
+}
+.imagencss{
+    top: 120%;
+    text-align: center;
+    
+}
+.skills{
+    width: 350px;
+    top: 160%;
+    position: absolute;
+    left: 47%;
+
+}
+.tabla2{
+    width: 250px;
+    top: 174%;
+    position: absolute;
+    left: 42%;
+}
+
+table, th, td{
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+     
+}
